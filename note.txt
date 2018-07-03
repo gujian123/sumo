@@ -1,0 +1,8 @@
+1.pwd      显示用户当前所处路径
+2.ls       显示当前文件夹下的内容
+3.rm -rf   删除文件或文件夹
+4.cd       改变路径
+5.reboot   重启
+5.mkdir    创建文件
+shutdown -h 关机
+git init   创建版本库
