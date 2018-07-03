@@ -10,3 +10,7 @@ git add file1name file2name...  把文件添加/改变的文件正式放入台�
 git commit -m "修改提示信息"    把文件添加/改变的文件正式放入仓库
 git diff    查看文件内容是否改变
 git status  查看文件状态
+git log     查看历史状态
+git config --global user.name "Your Name"  创建用户名
+git config --global user.name "Your Name"  创建邮箱
+git reset --hard  版本回退（加版本id）如 git reset --hard id
