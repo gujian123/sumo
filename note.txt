@@ -6,3 +6,5 @@
 5.mkdir    创建文件
 shutdown -h 关机
 git init   创建版本库
+git add filelname filezname...  把文件添加/改变的文件正式放入台面上
+git commit -m "修改提示信息"    把文件添加/改变的文件正式放入仓库
