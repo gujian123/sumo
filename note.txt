@@ -17,3 +17,8 @@ git reset --hard  版本回退（加版本id）如 git reset --hard id
 cat         打开文件
 HEAD        HEAD指向哪个版本号，当前版本就是谁
 git reflog  展示穿梭的过程（历史命令） 
+touch       创建文件
+vi          进入文件编辑模式（一般模式，编辑模式，命令模式）
+git diff HEAR --文件名 指比较库中的文件和工作区文件的区别
+git checkout -- 文件名  回到最近的一次版本
+git reset HEAR -- 文件名  放弃暂存区的内容，同时把工作区的内容也还原到HEAD状态
